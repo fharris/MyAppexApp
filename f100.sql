@@ -8702,7 +8702,7 @@ begin
 wwv_flow_api.create_page(
  p_id=>1
 ,p_user_interface_id=>wwv_flow_api.id(1940420430682104)
-,p_name=>'Tasks Kagool'
+,p_name=>'Tasks Kagool Change'
 ,p_page_mode=>'NORMAL'
 ,p_step_title=>'Tasks'
 ,p_step_sub_title_type=>'TEXT_WITH_SUBSTITUTIONS'
